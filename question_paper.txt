@@ -1,0 +1,83 @@
+**DR. BABASAHEB AMBEDKAR TECHNOLOGICAL UNIVERSITY, LONERE**
+**Regular/Supplementary Winter Examination – 2024**
+
+**Course:** Computer Engineering
+**Subject Code & Name:** BTCOC503: Software Engineering
+**Branch:** Computer Engineering
+**Semester:** V
+
+**Time:** 3 Hours                                                                     **Max. Marks:** 80
+
+**Instructions:**
+1. All questions are compulsory.
+2. Figures to the right indicate full marks.
+3. Assume suitable data if necessary.
+
+
+**Q.1:  Multiple Choice Questions (1 mark each):**
+
+Choose the correct option for the following:
+
+1. Which of the following is NOT a key activity in the software development life cycle (SDLC)? (1)
+    a) Requirements gathering  b) Testing   c) Marketing  d) Design
+2.  A use case diagram is primarily used to model: (1)
+    a) Data structures  b) System architecture  c) User interactions  d) Class relationships
+3.  Which model is best suited for projects with changing requirements? (1)
+    a) Waterfall  b) Spiral  c) V-model  d) Agile
+4.  What does UML stand for? (1)
+    a) Unified Modeling Language  b) Universal Modeling Language  c) User Modeling Language  d) Unified Machine Language
+5.  A software requirements specification (SRS) document primarily serves to: (1)
+    a) Guide the testing process  b) Detail the system design  c) Define what the system should do  d) Explain how the system will be implemented
+6.  Which of the following is a technique for requirements elicitation? (1)
+    a) Code review  b) Prototyping  c) Unit testing  d) Integration testing
+7.  What is the purpose of requirements validation? (1)
+    a) To ensure requirements are feasible  b) To gather requirements from stakeholders  c) To verify the system meets requirements  d) To manage changes to requirements
+8.  Which model emphasizes iterative development and incremental delivery? (1)
+    a) Waterfall  b) Spiral  c) Agile  d) V-model
+9.  What is a crucial aspect of requirements management? (1)
+    a) Ignoring stakeholder feedback  b) Managing changes to requirements  c) Avoiding documentation  d) Focusing solely on technical aspects
+10.  Which diagram shows the static structure of a system? (1)
+    a) Sequence diagram  b) Activity diagram  c) Class diagram  d) Statechart diagram
+11.  What does a context model illustrate? (1)
+    a) Internal system workings  b) System boundaries and interactions with external entities  c) Detailed system algorithms  d) User interface design
+12.  Which of the following is NOT a common type of software testing? (1)
+    a) Unit testing  b) Integration testing  c) System testing  d) Requirement gathering
+
+
+**Q.2:  (UNIT 2: Requirements Engineering)**
+
+A) Explain the different types of software requirements (functional and non-functional) with suitable examples. (6)
+B) Describe the process of requirements validation, including techniques used to ensure the quality and consistency of requirements. (6)
+
+
+**Q.3: (UNIT 3: System Modeling)**
+
+A) Explain the purpose and use of different types of interaction models (e.g., use case diagrams, sequence diagrams) in software development. (6)
+B) Describe the concept of behavioral modeling.  Illustrate with an example how a state diagram can represent the behavior of a simple system. (6)
+
+
+**Q.4: (UNIT 4:  [Unit 4 content missing from provided text. Please provide Unit 4 content to create relevant questions.])**
+
+Solve any TWO of the following:
+A)  [Question on Unit 4 topic A] (6)
+B)  [Question on Unit 4 topic B] (6)
+C)  [Question on Unit 4 topic C] (6)
+
+
+**Q.5: (UNIT 5: [Unit 5 content missing from provided text. Please provide Unit 5 content to create relevant questions.])**
+
+Solve any TWO of the following:
+A)  [Question on Unit 5 topic A] (6)
+B)  [Question on Unit 5 topic B] (6)
+C)  [Question on Unit 5 topic C] (6)
+
+
+**Q.6: (UNIT 5: [Unit 5 content missing from provided text. Please provide Unit 5 content to create relevant questions.])**
+
+Solve any TWO of the following:
+A)  [Question on Unit 5 topic A] (6)
+B)  [Question on Unit 5 topic B] (6)
+C)  [Question on Unit 5 topic C] (6)
+
+
+**Note:**  Please provide the missing content for Unit 4 and Unit 5 to complete the question paper.  I have structured the paper according to all your specifications.
